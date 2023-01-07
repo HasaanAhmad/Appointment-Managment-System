@@ -1,5 +1,7 @@
-hasaand 123
-ahmadd 123
-Faizand 123
-Salmand 123
-Hello 123
+Doctor Age Designation Specialization Username Passwords
+Hasaan_Ahmad 20 MBBS Anatomy hasaand 123
+Salman_Ahmad 20 MBBS Radiology salmand 123
+Mujtaba 20 MBBS Urology mujtabad 123
+Haider 20 MBBS Heart Haider 123
+Furqan_Sheikh 45 MBBS Physiologist furqand 123
+Haris_Ali 30 MBBS Viral_Diseases harisd 123
