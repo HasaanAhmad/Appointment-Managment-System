@@ -40,6 +40,6 @@ Now I added almost all functionalities. Doctors can view specific appointments a
 ## Authors
 
 - [Hasaan Ahmad](https://www.github.com/hasaanahmad0)
-- [Ahmad Alsakaf](https://www.github.com)
+- [Ahmad Alsakaf](https://www.linkedin.com/in/muhammad-haider-31541a185/)
 - [Muhammad Haider](https://www.github.com)
 
